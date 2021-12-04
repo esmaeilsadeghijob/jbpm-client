@@ -1,0 +1,8 @@
+server:
+  port: 9090
+
+jbpm:
+  server:
+    url: http://localhost:8080/kie-server/services/rest/server
+    username: wbadmin
+    password: wbadmin
